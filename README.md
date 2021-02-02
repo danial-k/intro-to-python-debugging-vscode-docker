@@ -24,7 +24,7 @@ In the following tutorials, the `Remote Containers: Attach to running container.
 # Tutorials
 To follow the tutorials, clone the repository locally with:
 ```
-git clone
+git clone https://github.com/danial-k/intro-to-python-debugging-vscode-docker.git
 ```
 ## Simple Script
 In this tutorial, a simple python script will be debugged.  Go to [tutorial - simple script](simple-script).
